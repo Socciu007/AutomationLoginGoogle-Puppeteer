@@ -1,2 +1,2 @@
 # Puppeteer
-Automation login gmail google
+Automation login google
